@@ -1,0 +1,3 @@
+export const STARTING_BALANCE = 100000;
+export const MAX_DRAWDOWN_LIMIT = 10000;
+export const DAILY_LOSS_LIMIT = 5000;
